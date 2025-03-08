@@ -1,0 +1,19 @@
+{
+	"name": "created-handlebars-example",
+	"version": "0.0.0",
+	"description": "Example repository created from create-handlebars-example. 💕",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bingo-examples/created-handlebars-example.git"
+	},
+	"type": "module",
+	"main": "lib/index.js",
+	"files": ["lib/", "package.json"],
+	"scripts": {
+		"tsc": "tsc"
+	},
+	"devDependencies": {
+		"@types/node": "22.13.9",
+		"typescript": "5.8.2"
+	}
+}
